@@ -1,0 +1,4 @@
+gunicorn==19.7.1
+virtualenv==15.1.0
+Werkzeug==0.14.1
+klaus==1.2.2
